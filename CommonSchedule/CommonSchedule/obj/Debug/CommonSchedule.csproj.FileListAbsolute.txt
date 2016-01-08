@@ -1,0 +1,93 @@
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe.config
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.pdb
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\BLL.gigade.dll
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\DBAccess.dll
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\log4net.dll
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\MySql.Data.dll
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\NPOI.dll
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OOXML.dll
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXml4Net.dll
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\console\CommonSchedule\CommonSchedule\bin\Debug\BLL.gigade.pdb
+F:\console\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.exe
+F:\console\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.pdb
+\\192.168.19.66\小组资料\VS-sdy\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe.config
+\\192.168.19.66\小组资料\VS-sdy\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.exe
+\\192.168.19.66\小组资料\VS-sdy\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.pdb
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe.config
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.pdb
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.exe
+C:\Users\Administrator\Desktop\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.pdb
+C:\Users\Administrator\Desktop\新增資料夾 (2)\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe.config
+C:\Users\Administrator\Desktop\新增資料夾 (2)\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe
+C:\Users\Administrator\Desktop\新增資料夾 (2)\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.pdb
+C:\Users\Administrator\Desktop\新增資料夾 (2)\CommonSchedule\CommonSchedule\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\新增資料夾 (2)\CommonSchedule\CommonSchedule\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\新增資料夾 (2)\CommonSchedule\CommonSchedule\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\新增資料夾 (2)\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\新增資料夾 (2)\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\新增資料夾 (2)\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\新增資料夾 (2)\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.exe
+C:\Users\Administrator\Desktop\新增資料夾 (2)\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.pdb
+C:\Users\Administrator\Desktop\排成模板\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe.config
+C:\Users\Administrator\Desktop\排成模板\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe
+C:\Users\Administrator\Desktop\排成模板\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.pdb
+C:\Users\Administrator\Desktop\排成模板\CommonSchedule\CommonSchedule\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\排成模板\CommonSchedule\CommonSchedule\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\排成模板\CommonSchedule\CommonSchedule\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\排成模板\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\排成模板\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\排成模板\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\排成模板\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.exe
+C:\Users\Administrator\Desktop\排成模板\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.pdb
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe.config
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.pdb
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\bin\Debug\DBAccess.dll
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.exe
+C:\Users\Administrator\Desktop\模板\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.pdb
+F:\work\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe.config
+F:\work\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.exe
+F:\work\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.pdb
+F:\work\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe
+F:\work\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.pdb
+F:\work\CommonSchedule\CommonSchedule\bin\Debug\DBAccess.dll
+F:\work\CommonSchedule\CommonSchedule\bin\Debug\MySql.Data.dll
+F:\work\CommonSchedule\CommonSchedule\bin\Debug\NPOI.dll
+F:\work\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OOXML.dll
+F:\work\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXml4Net.dll
+F:\work\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\work\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.csprojResolveAssemblyReference.cache
+E:\WindowsService\WindowsService\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe.config
+E:\WindowsService\WindowsService\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.exe
+E:\WindowsService\WindowsService\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.pdb
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe.config
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.exe
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.pdb
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.exe
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\bin\Debug\CommonSchedule.pdb
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\bin\Debug\DBAccess.dll
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\bin\Debug\MySql.Data.dll
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\bin\Debug\NPOI.dll
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OOXML.dll
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXml4Net.dll
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.ProjectInstaller.resources
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.csproj.GenerateResource.Cache
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\obj\Debug\CommonSchedule.gigadeWorkerService.resources
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\CommonSchedule\CommonSchedule\bin\Debug\gigadeWorkerSerives.exe.config

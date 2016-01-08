@@ -1,0 +1,10 @@
+E:\WindowsService\WindowsService\UnInstall\UnInstall\bin\Release\UnInstall.exe.config
+E:\WindowsService\WindowsService\UnInstall\UnInstall\bin\Release\UnInstall.exe
+E:\WindowsService\WindowsService\UnInstall\UnInstall\bin\Release\UnInstall.pdb
+E:\WindowsService\WindowsService\UnInstall\UnInstall\obj\x86\Release\UnInstall.exe
+E:\WindowsService\WindowsService\UnInstall\UnInstall\obj\x86\Release\UnInstall.pdb
+F:\work\schedule\gigade-sche\ALL_SCHE\WindowsService\UnInstall\UnInstall\bin\Release\UnInstall.exe.config
+F:\work\schedule\gigade-sche\ALL_SCHE\WindowsService\UnInstall\UnInstall\obj\x86\Release\UnInstall.exe
+F:\work\schedule\gigade-sche\ALL_SCHE\WindowsService\UnInstall\UnInstall\obj\x86\Release\UnInstall.pdb
+F:\work\schedule\gigade-sche\ALL_SCHE\WindowsService\UnInstall\UnInstall\bin\Release\UnInstall.exe
+F:\work\schedule\gigade-sche\ALL_SCHE\WindowsService\UnInstall\UnInstall\bin\Release\UnInstall.pdb

@@ -1,0 +1,288 @@
+﻿正在卸载程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在移除 EventLog 源 Service1。
+正在从系统中移除服务 Service1...
+在卸载 System.ServiceProcess.ServiceInstaller 安装程序的过程中发生异常。
+System.ComponentModel.Win32Exception: 指定的服务未安装。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
+正在安装程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在卸载程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在移除 EventLog 源 Service1。
+正在从系统中移除服务 Service1...
+已成功地从系统中移除服务 Service1。
+正在安装程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在卸载程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在移除 EventLog 源 Service1。
+正在从系统中移除服务 Service1...
+已成功地从系统中移除服务 Service1。
+正在安装程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在卸载程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在移除 EventLog 源 Service1。
+正在从系统中移除服务 Service1...
+已成功地从系统中移除服务 Service1。
+正在安装程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+正在日志 Application 中创建 EventLog 源 Service1...
+正在回滚程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在将事件日志还原到源 Service1 的前一状态。
+正在卸载程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在移除 EventLog 源 Service1。
+正在从系统中移除服务 Service1...
+已成功地从系统中移除服务 Service1。
+正在安装程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+正在日志 Application 中创建 EventLog 源 Service1...
+正在回滚程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在将事件日志还原到源 Service1 的前一状态。
+正在卸载程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在移除 EventLog 源 Service1。
+正在从系统中移除服务 Service1...
+已成功地从系统中移除服务 Service1。
+正在安装程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在卸载程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在移除 EventLog 源 Service1。
+正在从系统中移除服务 Service1...
+已成功地从系统中移除服务 Service1。
+正在安装程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+正在日志 Application 中创建 EventLog 源 Service1...
+正在回滚程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在将事件日志还原到源 Service1 的前一状态。
+正在卸载程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在移除 EventLog 源 Service1。
+正在从系统中移除服务 Service1...
+已成功地从系统中移除服务 Service1。
+尝试停止服务 Service1。
+正在安装程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在卸载程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在移除 EventLog 源 Service1。
+正在从系统中移除服务 Service1...
+已成功地从系统中移除服务 Service1。
+正在卸载程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在移除 EventLog 源 Service1。
+警告: 源 Service1 未在本地计算机上注册。
+正在从系统中移除服务 Service1...
+在卸载 System.ServiceProcess.ServiceInstaller 安装程序的过程中发生异常。
+System.ComponentModel.Win32Exception: 指定的服务未安装。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
+正在安装程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Uninstalling assembly 'E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: 指定的服務並不是已安裝的服務。
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe
+Uninstalling assembly 'E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\MyFirstWindowsService.exe

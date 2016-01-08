@@ -1,0 +1,30 @@
+F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.exe.config
+F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.exe
+F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.pdb
+F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.exe
+F:\工作\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.pdb
+F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.exe.config
+F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.exe
+F:\Test\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.pdb
+C:\Users\lhInc\Desktop\Windows service\C#实现Windows服务创建、安装\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.exe.config
+C:\Users\lhInc\Desktop\Windows service\C#实现Windows服务创建、安装\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.exe
+C:\Users\lhInc\Desktop\Windows service\C#实现Windows服务创建、安装\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.pdb
+C:\Users\lhInc\Desktop\Windows service\C#实现Windows服务创建、安装\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.exe
+C:\Users\lhInc\Desktop\Windows service\C#实现Windows服务创建、安装\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.pdb
+C:\Users\Administrator\Desktop\Windows service\C#实现Windows服务创建、安装\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.exe.config
+C:\Users\Administrator\Desktop\Windows service\C#实现Windows服务创建、安装\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.exe
+C:\Users\Administrator\Desktop\Windows service\C#实现Windows服务创建、安装\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.pdb
+C:\Users\Administrator\Desktop\Windows service\C#实现Windows服务创建、安装\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.exe
+C:\Users\Administrator\Desktop\Windows service\C#实现Windows服务创建、安装\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.pdb
+C:\Users\Administrator\Desktop\Windows service\Windows Service\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.exe.config
+C:\Users\Administrator\Desktop\Windows service\Windows Service\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.exe
+C:\Users\Administrator\Desktop\Windows service\Windows Service\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.pdb
+C:\Users\Administrator\Desktop\Windows service\Windows Service\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.exe
+C:\Users\Administrator\Desktop\Windows service\Windows Service\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.pdb
+C:\Users\Administrator\Desktop\WindowsService\WindowsService\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.exe.config
+C:\Users\Administrator\Desktop\WindowsService\WindowsService\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.exe
+C:\Users\Administrator\Desktop\WindowsService\WindowsService\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.pdb
+C:\Users\Administrator\Desktop\WindowsService\WindowsService\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.exe
+C:\Users\Administrator\Desktop\WindowsService\WindowsService\MyInstallFirstWindowsService\MyInstallFirstWindowsService\bin\Debug\MyInstallFirstWindowsService.pdb
+C:\Users\Administrator\Desktop\WindowsService\WindowsService\MyInstallFirstWindowsService\MyInstallFirstWindowsService\obj\x86\Debug\MyInstallFirstWindowsService.csprojResolveAssemblyReference.cache

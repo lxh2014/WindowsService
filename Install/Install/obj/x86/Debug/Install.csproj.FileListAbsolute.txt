@@ -1,0 +1,5 @@
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\Install.exe.config
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\Install.exe
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\bin\Debug\Install.pdb
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\obj\x86\Debug\Install.exe
+E:\gigadecode\gigade-sche\ALL_SCHE\WindowsService\Install\Install\obj\x86\Debug\Install.pdb
